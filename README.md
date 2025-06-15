@@ -20,10 +20,7 @@ I'm a passionate computer science student with a focus on web development, parti
 
 ---
 
-## 📂 Featured Projects
 
-- 🔧 **[Project Name]** – A short one-liner description. _Tech used: React, Bootstrap, etc._  
-- 🎮 **[Project Name]** – A simple project for practice. _Tech used: HTML, CSS, etc._  
 
 > Check the pinned repositories for more 👇
 
