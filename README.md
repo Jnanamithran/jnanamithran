@@ -16,7 +16,7 @@ I'm a passionate Full Stack Developer from India who loves building things that 
 - 🌱 I'm currently learning **System Design & Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, JavaScript, Web Development**
-- 📫 How to reach me: **jnanamithran@pm.me**
+- 📫 How to reach me: **jnanamithranm@gmail.com**
 - ⚡ Fun fact: **I code with music on 24/7**
 
 ---
