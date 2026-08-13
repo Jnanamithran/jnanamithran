@@ -1,88 +1,98 @@
-# Hi there, I'm Jnanamithran 👋
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
+# Hey, I'm Jnani 👋
+
+**Full-Stack Developer · AI/ML Enthusiast · Final-year CS @ SITST, Kerala**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jnanamithran.vercel.app-black?style=flat-square&logo=vercel)](https://jnanamithran.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jnanamithran)
+[![X](https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=x)](https://x.com/JN4NI)
+[![Discord](https://img.shields.io/badge/Discord-JN4NI-5865F2?style=flat-square&logo=discord)](https://discord.com/users/JN4NI)
 
 </div>
 
 ---
 
-### 🚀 About Me
+## About Me
 
-I'm a passionate Full Stack Developer from India who loves building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+I'm a MERN stack developer from Kerala, India, wrapping up my B.Tech in Computer Science at St. Thomas Institute for Science & Technology (KTU). I build full-stack web apps and I'm diving deeper into AI/ML — currently leading the AI pipeline on my capstone, **EKIP**, a multi-tenant enterprise RAG system.
 
-- 🔭 I'm currently working on **Modern Web Applications**
-- 🌱 I'm currently learning **System Design & Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, JavaScript, Web Development**
-- 📫 How to reach me: **jnanamithranm@gmail.com**
-- ⚡ Fun fact: **I code with music on 24/7**
+When I'm not writing code, I'm exploring new stacks, contributing to open source, or taking on freelance React work on Fiverr.
 
 ---
 
-### 🛠️ Tech Stack
+## Featured Projects
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🧠 EKIP — Enterprise Knowledge Intelligence Platform
+> Final-year capstone · AI Lead & Project Lead
+
+A multi-tenant enterprise RAG platform with a 9-step AI pipeline — covering ingestion, chunking, dense embeddings, BM25 sparse retrieval, RBAC filtering, RRF fusion, cross-encoder reranking, LLM generation (Llama 3.2 via Ollama), and citation post-processing.
+
+`RAG` `Python` `Node.js` `Vector Search` `RBAC` `Ollama`
 
 ---
 
-### 📊 GitHub Stats
+### 🔍 Inquira — Natural Language to SQL
+> Deployed SaaS · [inquira-three.vercel.app](https://inquira-three.vercel.app)
+
+Ask questions in plain English, get SQL back. Built with a React/Vite frontend on Vercel, Node/Express backend on Render, and a Python FastAPI AI service powered by Groq's Llama 3.3 70B. Fully open-sourced.
+
+[![Repo](https://img.shields.io/badge/GitHub-Inquira-black?style=flat-square&logo=github)](https://github.com/Jnanamithran/inquira)
+
+`React` `Vite` `Node.js` `FastAPI` `Groq API` `PostgreSQL` `Neon`
+
+---
+
+### 🌿 LeafyLoop — Plant & Fertilizer E-Commerce
+> Full-stack MERN · Deployed
+
+A full-featured Indian e-commerce platform for plants and fertilizers. Razorpay payments, Google OAuth via Firebase, Cloudinary image uploads, Indian Postal API integration, and Kerala-specific shipping logic.
+
+`MongoDB` `Express` `React` `Node.js` `Razorpay` `Firebase` `Cloudinary`
+
+---
+
+## Tech Stack
+
+**Frontend**
+`React` `Vite` `Tailwind CSS` `Framer Motion` `Redux Toolkit` `TanStack Query`
+
+**Backend**
+`Node.js` `Express` `Python` `FastAPI` `REST APIs`
+
+**Databases**
+`MongoDB` `PostgreSQL` `Neon`
+
+**AI / ML**
+`RAG Pipelines` `Vector Embeddings` `BM25` `Ollama` `Groq API` `LangChain`
+
+**DevOps & Tools**
+`Git` `GitHub` `Vercel` `Render` `Docker` `Ubuntu` `Kitty Terminal`
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jnanamithran&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnanamithran&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+![Jnani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jnanamithran&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jnanamithran&hide_border=true&theme=tokyonight" alt="Jnanamithran's GitHub Streak" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jnanamithran&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
 
 </div>
 
 ---
 
-### 🏆 Recent Projects
+## Currently
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Portfolio Website](https://github.com/Jnanamithran/jnani_portfolio)** | Personal portfolio with blogs and project showcase | React, Vite, Tailwind CSS |
-| **ToothSavvy Dental Clinic** | Dental clinic management & appointment booking system | MERN Stack |
-| **LeafyLoop E-commerce** | Full featured ecommerce platform with payment integration | Next.js, Stripe |
-| **Project Viper** | Autonomous NDT inspection system for industrial use | Python, OpenCV |
-
----
-
-### 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jnanamithran)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jnanamithran)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jnanamithran)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnanamithran@pm.me)
-
-</div>
+- 🔨 Building **EKIP** — wiring RRF fusion, reranking, and LLM generation
+- 📚 Final year of B.Tech CS at SITST, Trivandrum
+- 💼 Open to MERN / React internship and freelance opportunities
 
 ---
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad."
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=Jnanamithran&color=blueviolet&style=flat-square)
+*Made in Kerala, India 🌴*
 
 </div>
